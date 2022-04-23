@@ -1,0 +1,6 @@
+execute.sh
+dist
+node_modules
+yarn*
+.DS_store
+.env
